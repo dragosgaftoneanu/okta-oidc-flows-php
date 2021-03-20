@@ -1,0 +1,18 @@
+{
+    "name": "dragosgaftoneanu/okta-oidc-flows-php",
+    "description": "Library used to integrate Okta OIDC Flows inside PHP applications.",
+    "license": "Apache-2.0",
+    "authors": [{
+        "name": "Dragos Gaftoneanu",
+        "email": "dragos.gaftoneanu@gmail.com"
+    }],
+    "autoload": {
+        "psr-4": {
+            "Okta\\OIDC\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.0"
+    },
+    "minimum-stability": "stable"
+}

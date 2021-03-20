@@ -1,4 +1,4 @@
-# Okta OIDC PHP
+# Okta OIDC Flows PHP
 This repository contains the source for the Okta OIDC PHP library that can be used to login your users using [Authorization Code Flow](https://developer.okta.com/docs/guides/implement-auth-code/overview/), [Authorization Code Flow with PKCE](https://developer.okta.com/docs/guides/implement-auth-code-pkce/overview/) or [Resource Owner Password Flow](https://developer.okta.com/docs/guides/implement-password/overview/) inside your PHP application.
 
 :warning: **Disclaimer:** This is not an official product and does not qualify for Okta Support.
